@@ -31,5 +31,5 @@ Courses
     * React Context;
     * Next.JS (Server Side Rendering com React);
     * API Rest com Node.JS e MongoDB.
-* Actually I'm coursing [{reprograma}](https://reprograma.com.br/)! You can see my project with [{reprograma}](https://reprograma.com.br/) on my repositories!
+* Actually I'm coursing [{reprograma}](https://reprograma.com.br/)! You can see my projects with [{reprograma}](https://reprograma.com.br/) on my repositories!
 <!--te-->
