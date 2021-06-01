@@ -1,4 +1,8 @@
-# Hi there 🙋‍♀️ Welcome to my profile!!
+![](uarrived.gif)
+
+# Hi there 🙋‍♀️ 
+![](welcome.gif)  
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissandradee/)](https://www.linkedin.com/in/larissandradee/)
 <!--
@@ -12,8 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 👩‍💻 Studying to be an **front-end developer**.
+
 -->
-👩‍💻 I'm currently studying to be an **front-end developer**.
+
+### STUDYING TO BE AN FRONT-END DEVELOPER! ![](typing.gif)
+
 
 
 Courses
@@ -33,3 +41,5 @@ Courses
     * API Rest com Node.JS e MongoDB.
 * Actually I'm coursing [{reprograma}](https://reprograma.com.br/)! You can see my projects with [{reprograma}](https://reprograma.com.br/) on my repositories!
 <!--te-->
+#### Now, go, and explore it. 👀
+![](exploreit.gif)
