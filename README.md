@@ -13,7 +13,7 @@
 Courses
 =================
 <!--ts-->
-* Treinamento em React e Node" by Qualiti.
+* Treinamento em React e Node by Qualiti.
     * Fundamentos de JavaScript;
     * Fundamentos de HTML;
     * Fundamentos de MongoDB;
