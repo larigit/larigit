@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👩‍💻 I'm currently studying to be an front-end developer.
-        I’m now learning more about React;
-        I already work with: CSS, HTML, JavaScript.
+        - I’m now learning more about React;
+        - I already work with: CSS, HTML, JavaScript.
         
 - 💻 Courses:
         - "Treinamento em React e Node" by Qualiti.
