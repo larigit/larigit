@@ -5,10 +5,6 @@
 
 ![](welcome.gif)  
 
-### ✨ STUDYING TO BE AN FRONT-END DEVELOPER! ✨
-![](typing.gif)
-
-
 
 Courses
 =================
