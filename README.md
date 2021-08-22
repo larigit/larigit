@@ -1,4 +1,5 @@
-# Olá, sou a Larissa Andrade!! 🙋🏾‍♀️
+<div align="center">
+ <h1> Olá, sou a Larissa Andrade!! 🙋🏾‍♀️</h1>
 
  <div>
   <a href="https://github.com/larigit">
@@ -37,3 +38,4 @@
   
   
 ![](exploreit.gif)
+  </div>
