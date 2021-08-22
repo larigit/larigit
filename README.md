@@ -33,9 +33,10 @@
   ##
 
 ![](welcome.gif)  
-
-  ### 
-  
+##
+  <p>Como pode ver, tenho vários repositórios com códigos voltados para front-end! Fiz um curso da <a href="https://reprograma.com.br/">{reprograma}</a> que durou 6 meses!!</p> 
+  <p>Agora, estou me aprofundando mais em back-end, estudando Java, Spring Boot, e outras tecnologias necessárias!! Ah, também estou começando a estudar Angular. 👩🏾‍💻</p>
+  <p>Quer ver um pouquinho do que estou fazendo? Fique a vontade!!</p>
   
 ![](exploreit.gif)
   </div>
