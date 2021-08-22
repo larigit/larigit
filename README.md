@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigit&layout=compact&langs_count=7&theme=dracula&hide=jupyter notebook,verilog,SystemVerilog,Coq"/>
 </div>
 
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,36 +20,20 @@
   <img align="center" alt="Lari-c++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
   <img align="center" alt="Lari-node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 
- ##
  
+ ##
+ </br>
  
  <div> 
   <a href="https://www.instagram.com/larissafsandrade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:larissasantosandrade1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissandradee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/larigit/larigit/blob/output/github-contribution-grid-snake.svg)
-
+  ##
 
 ![](welcome.gif)  
 
-.
-Courses
-=================
-<!--ts-->
-* Treinamento em React e Node by Qualiti.
-    * Fundamentos de JavaScript;
-    * Fundamentos de HTML;
-    * Fundamentos de MongoDB;
-    * Fundamentos CSS/SCSS;
-    * Fundamentos em HTTP/REST/GRAPHQL;
-    * React;
-    * React Hooks;
-    * React DOM;
-    * React Context;
-    * Next.JS (Server Side Rendering com React);
-    * API Rest com Node.JS e MongoDB.
-* Actually I'm coursing [{reprograma}](https://reprograma.com.br/)! You can see my projects with [{reprograma}](https://reprograma.com.br/) on my repositories!
-<!--te-->
-#### Now, go, and explore it. 👀
+  ### 
+  
+  
 ![](exploreit.gif)
